@@ -6,3 +6,11 @@ body
     display: flex;
     align-items: center;
 }
+#container
+{
+    background-color: #444;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px;
+    text-align: center;
+}
